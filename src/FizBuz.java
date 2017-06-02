@@ -16,13 +16,7 @@ public static void main(String[] args){
 	}
 	System.out.println("This is to check github pull on this file");
 	
-	System.out.println("This is for blame the code");
-System.out.println("This is for blame the code");System.out.println("This is for blame the code");
-System.out.println("This is for blame the code");System.out.println("This is for blame the code");
-System.out.println("This is for blame the code");System.out.println("This is for blame the code");
-System.out.println("This is for blame the code");
-System.out.println("This is for blame the code");
-System.out.println("This is for blame the code");
+	System.out.println("This one is for the sake of git add --all");
 }
 
 }
